@@ -1,0 +1,16 @@
+{
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "wsUrl": "wss://api.mainnet-beta.solana.com",
+  "storkContractAddress": "stork1JUZMKYgjNagHiK2KdMmb42iTnYe9bYUCDUk8n",
+  "updateFrequency": "5s",
+  "assets": [
+    {
+      "name": "SOL/USDC",
+      "encodedAssetId": "0x7cd6d6b567ffe7293d7f679d4ebf2f185707ad52e366377392719795ff5a3303"
+    },
+    {
+      "name": "BTC/USDC",
+      "encodedAssetId": "0x309b97446812e2ed1e661a32faa197ca9d54020452658e4845f7f59dd1ab30cc"
+    }
+  ]
+}
